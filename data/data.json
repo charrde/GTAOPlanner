@@ -1,0 +1,1019 @@
+{
+	"properties": {
+		"apartments": {
+            "low_end": [
+                {
+                    "id": 1,
+                    "tier_id": 1,
+                    "name": "0232 Paleto Boulevard",
+                    "base_price": 121000,
+                    "notes": "DLC",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "tier_id": 1,
+                    "name": "140 Zancudo Avenue",
+                    "base_price": 120000,
+                    "notes": "DLC",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "tier_id": 1,
+                    "name": "1893 Grapeseed Avenue",
+                    "base_price": 118000,
+                    "notes": "DLC",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "tier_id": 1,
+                    "name": "2143 Las Lagunas Boulevard, Apt 9",
+                    "base_price": 115000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "tier_id": 1,
+                    "name": "0069 Cougar Avenue, Apt 19",
+                    "base_price": 112000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "tier_id": 1,
+                    "name": "1237 Prosperity Street, Apt 21",
+                    "base_price": 105000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "tier_id": 1,
+                    "name": "1561 San Vitas Street, Apt 2",
+                    "base_price": 99000,
+                    "notes": "FREE (with Criminal Enterprise Starter Pack)",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "tier_id": 1,
+                    "name": "1115 Boulevard Del Perro, Apt 18",
+                    "base_price": 93000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "tier_id": 1,
+                    "name": "2057 Vespucci Boulevard, Apt 1",
+                    "base_price": 87000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "tier_id": 1,
+                    "name": "0112 South Rockford Drive, Apt 13",
+                    "base_price": 80000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 2
+                            }
+                        ]
+                    }
+                }
+            ],            
+            "medium_end": [
+                {
+                    "id": 1,
+                    "tier_id": 2,
+                    "name": "4 Hangman Ave",
+                    "base_price": 175000,
+                    "notes": "DLC",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "tier_id": 2,
+                    "name": "4401 Procopio Drive",
+                    "base_price": 165000,
+                    "notes": "DLC",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "tier_id": 2,
+                    "name": "4584 Procopio Drive",
+                    "base_price": 155000,
+                    "notes": "DLC",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "tier_id": 2,
+                    "name": "0115 Bay City Avenue, Apt 45",
+                    "base_price": 150000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "tier_id": 2,
+                    "name": "0184 Milton Road, Apt 13",
+                    "base_price": 146000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "tier_id": 2,
+                    "name": "12 Sustancia Road",
+                    "base_price": 143000,
+                    "notes": "DLC",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "tier_id": 2,
+                    "name": "0504 South Mo Milton Drive",
+                    "base_price": 141000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "tier_id": 2,
+                    "name": "0325 South Rockford Drive",
+                    "base_price": 137000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "tier_id": 2,
+                    "name": "Dream Tower, Apt 15",
+                    "base_price": 134000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "tier_id": 2,
+                    "name": "1162 Power Street, Apt 3",
+                    "base_price": 130000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "tier_id": 2,
+                    "name": "0605 Spanish Avenue, Apt 1",
+                    "base_price": 128000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "tier_id": 2,
+                    "name": "0604 Las Lagunas Boulevard, Apt 4",
+                    "base_price": 126000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "tier_id": 2,
+                    "name": "The Royale, Apt 19",
+                    "base_price": 125000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 6
+                            }
+                        ]
+                    }
+                }
+            ],            
+            "high_end": [
+                {
+                    "id": 1,
+                    "tier_id": 3,
+                    "name": "Eclipse Towers, Apt 31",
+                    "base_price": 400000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "tier_id": 3,
+                    "name": "Eclipse Towers, Apt 40",
+                    "base_price": 391000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "tier_id": 3,
+                    "name": "Eclipse Towers, Apt 5",
+                    "base_price": 382000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "tier_id": 3,
+                    "name": "Eclipse Towers, Apt 9",
+                    "base_price": 373000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "tier_id": 3,
+                    "name": "Weazel Plaza, Apt 101",
+                    "base_price": 335000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "tier_id": 3,
+                    "name": "Weazel Plaza, Apt 70",
+                    "base_price": 319000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "tier_id": 3,
+                    "name": "Weazel Plaza, Apt 26",
+                    "base_price": 304000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "tier_id": 3,
+                    "name": "Tinsel Towers, Apt 29",
+                    "base_price": 286000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "tier_id": 3,
+                    "name": "Tinsel Towers, Apt 45",
+                    "base_price": 270000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "tier_id": 3,
+                    "name": "Richards Majestic, Apt 51",
+                    "base_price": 253000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 11,
+                    "tier_id": 3,
+                    "name": "4 Integrity Way, Apt 35",
+                    "base_price": 247000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 12,
+                    "tier_id": 3,
+                    "name": "Richards Majestic, Apt 4",
+                    "base_price": 241000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 13,
+                    "tier_id": 3,
+                    "name": "4 Integrity Way, Apt 30",
+                    "base_price": 235000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 14,
+                    "tier_id": 3,
+                    "name": "3 Alta Street Tower, Apt 57",
+                    "base_price": 223000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 15,
+                    "tier_id": 3,
+                    "name": "3 Alta Street Tower, Apt 10",
+                    "base_price": 217000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 16,
+                    "tier_id": 3,
+                    "name": "Del Perro Heights, Apt 20",
+                    "base_price": 205000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 17,
+                    "tier_id": 3,
+                    "name": "Del Perro Heights, Apt 7",
+                    "base_price": 200000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                }
+            ],
+            "high_end_updated": [
+                {
+                    "id": 18,
+                    "tier_id": 3,
+                    "name": "Eclipse Towers, Apt 3",
+                    "base_price": 500000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 19,
+                    "tier_id": 3,
+                    "name": "Tinsel Towers, Apt 42",
+                    "base_price": 492000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 20,
+                    "tier_id": 3,
+                    "name": "Richards Majestic, Apt 2",
+                    "base_price": 484000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 21,
+                    "tier_id": 3,
+                    "name": "4 Integrity Way, Apt 28",
+                    "base_price": 476000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 22,
+                    "tier_id": 3,
+                    "name": "Del Perro Heights, Apt 4",
+                    "base_price": 468000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                }
+            ],            
+            "stilt_houses": [
+                {
+                    "id": 1,
+                    "tier_id": 3,
+                    "name": "3655 Wild Oats Drive",
+                    "base_price": 800000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "tier_id": 3,
+                    "name": "2044 North Conker Avenue",
+                    "base_price": 762000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "tier_id": 3,
+                    "name": "2045 North Conker Avenue",
+                    "base_price": 727000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 4,
+                    "tier_id": 3,
+                    "name": "2862 Hillcrest Avenue",
+                    "base_price": 705000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 5,
+                    "tier_id": 3,
+                    "name": "2868 Hillcrest Avenue",
+                    "base_price": 672000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 6,
+                    "tier_id": 3,
+                    "name": "2117 Milton Road",
+                    "base_price": 608000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 7,
+                    "tier_id": 3,
+                    "name": "2874 Hillcrest Avenue",
+                    "base_price": 571000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 8,
+                    "tier_id": 3,
+                    "name": "2866 Hillcrest Avenue",
+                    "base_price": 525000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 9,
+                    "tier_id": 3,
+                    "name": "3677 Whispymound Drive",
+                    "base_price": 478000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 10,
+                    "tier_id": 3,
+                    "name": "2113 Mad Wayne Thunder Drive",
+                    "base_price": 449000,
+                    "notes": "",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                }
+            ],
+            "custom_apartment_penthouses": [
+                {
+                    "id": 1,
+                    "tier_id": 3,
+                    "name": "Eclipse Towers, Penthouse Suite 3",
+                    "base_price": 1100000,
+                    "notes": "South facing city view",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 2,
+                    "tier_id": 3,
+                    "name": "Eclipse Towers, Penthouse Suite 1",
+                    "base_price": 985000,
+                    "notes": "South facing city view",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                },
+                {
+                    "id": 3,
+                    "tier_id": 3,
+                    "name": "Eclipse Towers, Penthouse Suite 2",
+                    "base_price": 905000,
+                    "notes": "North facing hills view",
+                    "customizations": {
+                        "garage": [
+                            {
+                                "id": 1,
+                                "size": 10
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+		"garages": [],
+		"yachts": [],
+		"offices": {
+			"locations": [
+				{
+					"id": 1,
+					"name": "Maze Bank West",
+					"location": "Del Perro",
+					"base_price": 1000000,
+					"notes": "FREE (with Criminal Enterprise Starter Pack)",
+					"description": "Maze has been the target for more boycotts, demonstrations and civil rights lawsuits than any other bank in America. Access to that wealth of experience doesn't come cheap, but a good education is an investment worth any price."
+				},
+				{
+					"id": 2,
+					"name": "Arcadius Business Center",
+					"location": "Pillbox Hill",
+					"base_price": 2250000,
+					"notes": "",
+					"description": "The City within the City, the Arcadius Business Center boasts more AAA hedge funds, smoothie bars, and executive suicides per square foot of office space than any other building in the business district. Welcome to Cutting edge."
+				},
+				{
+					"id": 3,
+					"name": "Lombank West",
+					"location": "Del Perro",
+					"base_price": 3100000,
+					"notes": "",
+					"description": "In a radical new step towards diversification of the banking sector. Industry giant Lombank is selling office space to results-driven, high-liquidity kill squads and drug cartels. Be part of the change our financial industry needs."
+				},
+				{
+					"id": 4,
+					"name": "Maze Bank Tower",
+					"location": "Pillbox Hill",
+					"base_price": 4000000,
+					"notes": "",
+					"description": "The building that defined the LS Skyline for a generation. Taller, Classier, more opulent, more shamelessly phallic, less structurally sound - you name it, the Maze Bank Tower is best in class."
+				}
+			],
+			"customizations": {
+				"personnel": [
+					{
+						"gender": "Male",
+						"image": "male_personnel_image_url"
+					},
+					{
+						"gender": "Female",
+						"image": "female_personnel_image_url"
+					}
+				],
+				"interiors": [
+					{
+						"name": "Executive Rich",
+						"price": 0,
+						"description": "Default Interior"
+					},
+					{
+						"name": "Executive Cool",
+						"price": 415000,
+						"description": ""
+					},
+					{
+						"name": "Executive Contrast",
+						"price": 500000,
+						"description": ""
+					},
+					{
+						"name": "Old Spice Classical",
+						"price": 685000,
+						"description": ""
+					},
+					{
+						"name": "Old Spice Vintage",
+						"price": 760000,
+						"description": ""
+					},
+					{
+						"name": "Old Spice Warms",
+						"price": 950000,
+						"description": ""
+					},
+					{
+						"name": "Power Broker Conservative",
+						"price": 835000,
+						"description": ""
+					},
+					{
+						"name": "Power Broker Polished",
+						"price": 910000,
+						"description": ""
+					},
+					{
+						"name": "Power Broker Ice",
+						"price": 1000000,
+						"description": ""
+					}
+				],
+				"upgrades": [
+					{
+						"name": "Money Safe",
+						"price": 335000,
+						"description": "Money safe in a hidden compartment behind the CEO's desk. Purely cosmetic, but the amount of money shown in the safe depends on how much the player has in the bank with a maximum of $1 million."
+					},
+					{
+						"name": "Gun Locker",
+						"price": 520000,
+						"description": "Weapon locker in a hidden compartment behind the CEO's desk. Allows the player to set a custom weapon loadout out of their currently owned weapons. Can be disabled in the Interaction Menu."
+					},
+					{
+						"name": "Accomodation",
+						"price": 795000,
+						"description": "Expanded living quarters for the CEO. Allows access to amenities such as a wardrobe, bed, toilet and shower and allows the player to set the Office as their spawn point."
+					}
+				]
+			}
+		},
+		"warehouses": [],
+		"office_garages": [],
+		"vehicle_warehouses": [],
+		"underground_garage": [],
+		"clubhouses": [],
+		"mc_businesses": [],
+		"bunkers": [],
+		"hangars": [],
+		"facilities": [],
+		"nightclubs": [],
+		"arena_workshop": [],
+		"master_penthouse": [],
+		"arcades": [],
+		"auto_shops": [],
+		"agencies": [],
+		"salvage_yards": [],
+		"bail_offices": []
+	}
+}
