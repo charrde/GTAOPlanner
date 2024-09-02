@@ -28,13 +28,17 @@ import { generateHomePage } from '../home/homePageElements.js';
 
 export function createBusinessTypeSelection() {
     const backButton = document.createElement('button');
+    const businessTypeSelection = document.createElement('div');
+    businessTypeSelection.id = 'business-type-selection';
     backButton.textContent = 'Back';
     backButton.classList.add('back-button');
     backButton.addEventListener('click', function() {
-        document.querySelector('main').innerHTML = '';
-        generateHomePage();
+        document.getElementById('business-type-selection').style.opacity = 0;
+        document.getElementById('business-type-selection').addEventListener('transitionend', function() {
+            document.querySelector('main').innerHTML = '';
+            generateHomePage();
+        });
     });
-    const businessTypeSelection = document.createElement('div');
     businessTypeSelection.classList.add('center-container');
     businessTypeSelection.appendChild(backButton);
     const typeSelection = document.createElement('div');

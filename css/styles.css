@@ -146,7 +146,7 @@ html {
 
 * {
     transition: var(--transition03);
-    transition-property: var(--transition-colors);
+    transition-property: var(--transition-colors), opacity;
 }
 
 .switch {

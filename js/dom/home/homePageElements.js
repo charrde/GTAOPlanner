@@ -2,7 +2,7 @@ import { createBusinessTypeSelection } from '../businesses/businessesSelectionEl
 
 export function generateHomePage() {
     document.querySelector('main').innerHTML = `
-    <div class="center-container">
+    <div id="category-selection" class="center-container">
     <div class="browse">
         <div class="browse-card">
             <div class="browse-card-details">
@@ -30,7 +30,11 @@ export function generateHomePage() {
     `;
 
     document.getElementById('browse-businesses').addEventListener('click', function() {
-        document.querySelector('main').innerHTML = '';
-        document.querySelector('main').appendChild(createBusinessTypeSelection());
+        var elements = document.getElementById('category-selection');
+        elements.style.opacity = 0;
+        elements.addEventListener('transitionend', function() {
+            document.querySelector('main').innerHTML = '';
+            document.querySelector('main').appendChild(createBusinessTypeSelection());
+        });
     });
 };
